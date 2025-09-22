@@ -21,7 +21,7 @@ Ask Codex to open `mkdocs.yml` and update the following keys so the published si
 - `site_url`: `https://<org>.github.io/<repo>` (replace with your organization/user and new repo name).
 - `repo_name`: short display label such as `"ORG/Project"`.
 - `repo_url`: the full GitHub URL to the repository.
-- Confirm the `theme`, `nav`, and plugins look right for your project. Update any navigation labels that still reference “Project Group OASIS.”
+- Confirm the `theme`, `nav`, and plugins look right for your project. Update any navigation labels that still reference “System Dynamics Early Warning Signals — Innovation Summit 2025 (Group 8).”
 - Update the `nav` item labeled **Your persistent storage** so it links to your team’s CyVerse folder. Replace `Group_1` in the URL with the number that matches your repository name (for example, a repo ending in `_5` should use `Group_5`). If the shared link needs a unique `resourceId`, grab the correct link directly from the Data Store interface while viewing your group’s folder.
 
 ### Top-level files
@@ -32,7 +32,7 @@ Ask Codex to open `mkdocs.yml` and update the following keys so the published si
 
 ### Search-and-replace the old name
 
-Run a repository-wide search for `Project_group_OASIS` and replace it with your new repo name. Pay attention to:
+Run a repository-wide search for `system-dynamics-early-warning-signals-innovation-summit-2025__8` and replace it with your new repo name. Pay attention to:
 
 - Front-matter in the Markdown files inside `docs/` (for example, hero images or repo links).
 - Any sample links in documentation under `docs/orientation/`.
