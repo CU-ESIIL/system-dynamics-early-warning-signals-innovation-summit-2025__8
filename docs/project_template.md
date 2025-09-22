@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "OASIS: 3-Day Team Template"
-subtitle: "A friction-free guide for collaborative research sprints"
+title: "System Dynamics Early Warning Signals"
+subtitle: "Innovation Summit 2025 · Group 8 sprint guide"
 hero_image: assets/template/hero.svg
 team_logo: assets/template/team-logo.svg
-contact_slack: "#oasis-project-room"
-contact_email: "team@example.org"
-repo_owner: "cu-esiil"
-repo_name: "Project_group_OASIS"
+contact_slack: "#innovation-summit-2025-group8"
+contact_email: "innovation-summit-group8@example.org"
+repo_owner: "cyverse-learning-institute"
+repo_name: "system-dynamics-early-warning-signals-innovation-summit-2025__8"
 edit_path: "docs/project_template.md"
 ---
 
